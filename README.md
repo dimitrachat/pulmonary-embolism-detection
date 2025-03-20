@@ -1,6 +1,4 @@
 # pulmonary-embolism-detection
-A project using traditional computer vision techniques to detect pulmonary embolisms in CT scans
-# Pulmonary Embolism Detection Using Traditional Computer Vision Techniques
 
 ## Overview
 This project aims to automate the detection of Pulmonary Embolism (PE) in Computed Tomography Pulmonary Angiograms (CTPAs) using traditional computer vision techniques. The goal is to isolate and detect embolisms in the main pulmonary artery, improving accuracy and efficiency in medical diagnostics. It uses traditional image processing methods such as grayscale conversion, threshold filtering, Hough Circle detection, Gaussian blur, connected components analysis, and morphological operations (erosion & dilation) to isolate and detect embolisms.
